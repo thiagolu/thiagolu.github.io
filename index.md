@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-<h1 class="headline text-center">{{site.title}}</h1>
------------------------
+<h1 class="headline">{{site.title}}</h1>
+
+
+> All the faith he had had had had no effect on the outcome of his life.
 
 
 ## Projects
@@ -12,7 +14,6 @@ layout: default
  - [A Blog](http://t-ls.herokuapp.com/)
  - [Stock Tracker](https://polar-shelf-96927.herokuapp.com/users/sign_in)
 
- ----------------------
 
 
 ## Posts
