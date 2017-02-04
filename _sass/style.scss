@@ -5,6 +5,10 @@
     transition-timing-function: linear;
       } */
 
+.text-center {
+  text-align: center;
+}
+
 html, body {
     height: 100%;
 }
@@ -39,7 +43,7 @@ a {
     color: $brand-color;
     text-decoration: none;
     &:hover{
-     color: $text-color;   
+     color: $text-color;
     }
 }
 
@@ -130,7 +134,7 @@ blockquote {
         opacity: 0.6;
     }
 
-    
+
 }
 
 .video {
@@ -141,7 +145,7 @@ blockquote {
     }
     @include media-query($on-palm) {
         height: 180px;
-    }   
+    }
 }
 
 // Adding 'Contents' headline to the TOC
@@ -184,7 +188,3 @@ footer {
 .links a {
     margin-right: 1em;
 }
-
-
-
-
