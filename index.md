@@ -7,17 +7,18 @@ layout: default
 > All the faith he had had had had no effect on the outcome of his life.
 
 
-## Projects
+## <a name="projects"></a> Projects
 
- - [A Blog](http://t-ls.herokuapp.com/)
+Rails Studies
+
  - [Google Search](https://thiagolu.github.io/alpha-webs/)
  - [A Blog](http://t-ls.herokuapp.com/)
- - [Stock Tracker](https://polar-shelf-96927.herokuapp.com/users/sign_in)
+ - [Stock Tracker](https://polar-shelf-96927.herokuapp.com/)
+ - [Eletronic Wallet](https://personalf.herokuapp.com/)
 
+## <a name="posts"></a> Posts
 
-
-## Posts
-
+Some posts about the piras
 
 {% for post in site.posts %}
 <h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
