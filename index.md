@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1 class="headline">{{site.title}}</h1>
+<h1 class="headline">Titulo do site</h1>
 
 
 > All the faith he had had had had no effect on the outcome of his life.
