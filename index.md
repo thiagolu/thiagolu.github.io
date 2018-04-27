@@ -3,11 +3,14 @@ layout: default
 ---
 <h1 class="headline">marketing 20T Titulo do site</h1>
 
-<div id="asd-a6a12768161cd158e022"></div>
+
+<div id="classico-19-04-2018-20-58-e27194d5d6d46436a772"></div>
 <script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
 <script type="text/javascript">
-  new RDStationForms('asd-a6a12768161cd158e022-html', 'UA-39884858-1').createForm();
+  new RDStationForms('classico-19-04-2018-20-58-e27194d5d6d46436a772-html', 'UA-39884858-1').createForm();
 </script>
+
+
 > All the faith he had had had had no effect on the outcome of his life.
 
 
@@ -15,7 +18,6 @@ layout: default
 
 Rails Studies
 
- - [Google Search](https://thiagolu.github.io/alpha-webs/)
  - [A Blog](http://t-ls.herokuapp.com/)
  - [Stock Tracker](https://polar-shelf-96927.herokuapp.com/)
  - [Eletronic Wallet](https://personalf.herokuapp.com/)
